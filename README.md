@@ -1,5 +1,9 @@
 The Notebook ' StyleTransfer_Promit.ipynb' contains the code for Neural Style Transfer.
 
+To run the notebook, just upload it to Google Colab and execute the cells.
+My notebook (Public):
+https://colab.research.google.com/drive/19ceTN1pUuwdtAQBamock0D83NUG6adzd?usp=sharing
+
 Libraries Used/ Requirements:
 
 1. Pillow 
