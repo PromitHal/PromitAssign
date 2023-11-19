@@ -15,8 +15,7 @@ Libraries Used/ Requirements:
 
 **Evaluation on results obtained from stylizing with *The Starry Night by Vincent van Gogh, 1889*.**
 
-![image](https://github.com/PromitHal/PromitAssign/assets/83832850/e63963e9-7d05-4031-85c3-116072cb06a3)
-
+![image](https://github.com/PromitHal/PromitAssign/assets/83832850/802afa8b-5811-407c-9c9b-8b0de55d0749)
 
 | Image             | Content Loss | Style Loss | Visual Appeal |
 |-------------------|--------------|------------|---------------|
@@ -28,7 +27,7 @@ Libraries Used/ Requirements:
 
 **Evaluation on results obtained from stylizing with A painting by Pablo Picasso**
 
-![image](https://github.com/PromitHal/PromitAssign/assets/83832850/07b594ea-4bde-4f51-aa88-7956fe05dc87)
+![image](https://github.com/PromitHal/PromitAssign/assets/83832850/eb8655ad-71c8-4052-9c5b-82445f4f0643)
 
 
 | Image             | Content Loss | Style Loss | Visual Appeal |
