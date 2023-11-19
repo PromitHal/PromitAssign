@@ -37,7 +37,13 @@ Libraries Used/ Requirements:
 |  3                | 5.974e-6     | 69.36      | Nice          |
 |  4                | 1.67e-6      | 70.58      | Nice          |
 
+
+**Conclusion**
+
 1. For the first painting (The Scary Night by Van Gouge) the results are not very visually appealing, whereas for the second style ( A painting by Pablo Picasso), the results are much better.
 2. This is quantified by the lower loss values (both content and style loss) in the second case. The stylized images are more visually appealing in the second case.
 
-   
+**Improvements**
+1. Refining  the loss function: The loss function used here is a weighted mean squared error combining conextual and style loss. An improved loss function can ensured better convergence and higher quality results.
+2. Exploring other artistic styles: A particular style image might not at all be suitable for different content images. Hence, it is necessary to play around with different style images to select the ones visually appealing.
+3. Incorporating user feedback: If it is possible for the users to give a feedback in natural language domain regarding the stylized image, incorporating the feedback might result in customised results ensuring user satisfaction.
